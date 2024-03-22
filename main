@@ -5,7 +5,7 @@ int main(){
   printf("opensw");
   printf("수정좀 할게요");
   printf("하이여");
-  printf("왹수정이닷");
+  printf("이동윤입니다.");
 }
 
 
